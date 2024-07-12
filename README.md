@@ -1,2 +1,2 @@
-# C lang
+# C language
 some programs done in the dsa lab offered in sem-4
