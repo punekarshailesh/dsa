@@ -18,7 +18,9 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
       <li>Singly linked list
       <img src="https://3.bp.blogspot.com/-sXOQBd_OCR8/WBBn3QNhOiI/AAAAAAAAALQ/ysaUNOhKMoY59zw2cRxcHioHzdvn8HdNgCLcB/s1600/simpleLinkedList.png">
       </li>
-      <li>Doubly linked list</li>
+      <li>Doubly linked list
+       <img src="https://th.bing.com/th/id/OIP.SQZWQAnT10FmZFgrPCkW-wHaD4?rs=1&pid=ImgDetMain">
+      </li>
       <li>Cicular linked list</li>
     </ul>
   </li>
