@@ -16,7 +16,7 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
   <li>Linked list
     <ul>
       <li>Singly linked list
-      <img src="https://3.bp.blogspot.com/-sXOQBd_OCR8/WBBn3QNhOiI/AAAAAAAAALQ/ysaUNOhKMoY59zw2cRxcHioHzdvn8HdNgCLcB/s1600/simpleLinkedList.png">
+      <img src="https://holycoders.com/content/images/wordpress/2020/04/Doubly-Linked-List-data-structure.png">
       </li>
       <br/>
       <li>Doubly linked list <br/>
