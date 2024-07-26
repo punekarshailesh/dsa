@@ -16,11 +16,11 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
   <li>Linked list
     <ul>
       <li>Singly linked list
-      <img src="[https://holycoders.com/content/images/wordpress/2020/04/Doubly-Linked-List-data-structure.png](https://th.bing.com/th/id/OIP.w_n17eed8QB-NDEW7oI6lgAAAA?w=316&h=118&c=7&r=0&o=5&dpr=1.3&pid=1.7)">
+      <img src="https://th.bing.com/th/id/OIP.w_n17eed8QB-NDEW7oI6lgAAAA?rs=1&pid=ImgDetMain">
       </li>
       <br/>
       <li>Doubly linked list <br/>
-       <img src="[https://th.bing.com/th/id/OIP.SQZWQAnT10FmZFgrPCkW-wHaD4?rs=1&pid=ImgDetMain](https://holycoders.com/content/images/wordpress/2020/04/Doubly-Linked-List-data-structure.png)">
+       <img src="https://holycoders.com/content/images/wordpress/2020/04/Doubly-Linked-List-data-structure.png">
       </li>
       <li>Cicular linked list</li>
     </ul>
