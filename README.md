@@ -36,6 +36,7 @@
     <li>by array</li>
     <li>by linked list</li>
   </ul>
+    <img src="https://images.ctfassets.net/n9ktizb80e1a/6FJgRmnaa4aPhL7vn8TGd4/9bd02c6c3d5337d42a7f933b5740006f/queue.gif">
   </li>
 <hr/>
   <li>Tree</li>
