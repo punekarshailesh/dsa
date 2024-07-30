@@ -7,8 +7,8 @@
     <li>Insertion sort <br> <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif"/> </li>
     <li>Selection sort <br> <img src="https://www.doabledanny.com/static/1f66c277a7a820e3492149c6e499bdb1/2.gif"> </li>
     <li>Bubble sort <br> <img src="https://content.codecademy.com/courses/sorting/BubbleSort.gif" height=500px width=650px> </li>
-    <li>Merge sort <br> <img src="https://user-images.githubusercontent.com/45442173/70378525-0bfc4d00-1900-11ea-89e3-993d955394af.gif"></li>
-    <li>Heap sort <br> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--juojkFU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6bxwph6auhpuis9ldsb.gif"> </li>
+    <li>Merge sort <br> <img src="https://user-images.githubusercontent.com/45442173/70378525-0bfc4d00-1900-11ea-89e3-993d955394af.gif" height=500px widht=650px></li>
+    <li>Heap sort <br> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--juojkFU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6bxwph6auhpuis9ldsb.gif" height=500px width=650px> </li>
     <li>Quick sort <br> <img src="https://content.codecademy.com/courses/sorting/swap.gif" height=500px width=650px> </li>
   </ul>
     <hr/>
