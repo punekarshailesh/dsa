@@ -8,7 +8,10 @@
     <br>
       <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif"/>
     </li>
-    <li>Selection sort</li>
+    <li>Selection sort
+      <br>
+      <img src="https://www.doabledanny.com/static/1f66c277a7a820e3492149c6e499bdb1/2.gif">
+    </li>
     <li>Bubble sort</li>
     <li>Merge sort</li>
     <li>Heap sort</li>
