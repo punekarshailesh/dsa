@@ -11,18 +11,13 @@
     <li>Heap sort <br> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--juojkFU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6bxwph6auhpuis9ldsb.gif" height=500px width=650px> </li>
     <li>Quick sort <br> <img src="https://content.codecademy.com/courses/sorting/swap.gif" height=500px width=650px> </li>
   </ul>
-    <hr/>
+   <hr/>
   </li>
   <li>Linked list
     <ul>
-      <li>Singly linked list<br/>
-<!--       <img src="https://th.bing.com/th/id/OIP.w_n17eed8QB-NDEW7oI6lgAAAA?rs=1&pid=ImgDetMain" height=500px> -->
-      </li>
-<!--       <br/> -->
-      <li>Doubly linked list
-<!--        <img src="https://holycoders.com/content/images/wordpress/2020/04/Doubly-Linked-List-data-structure.png"> -->
-      </li>
-      <li>Cicular linked list</li>
+      <li>Singly linked list </li>
+      <li>Doubly linked list </li>
+      <li>Cicular linked list </li>
       <br/>
       <img src="https://i1.faceprep.in/Companies-1/types-of-linked-list.png"/>
     </ul>
@@ -32,6 +27,7 @@
   <ul>
     <li>by array</li>
     <li>by linked list</li>
+    <img src="https://us13579.github.io/images/stack.gif">
   </ul>
   </li>
 <hr/>
