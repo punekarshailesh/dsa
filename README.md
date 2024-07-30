@@ -10,13 +10,13 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
     <br>
       <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif"/>
     </li>
-    <hr/>
     <li>Selection sort</li>
     <li>Bubble sort</li>
     <li>Merge sort</li>
     <li>Heap sort</li>
     <li>Quick sort</li>
   </ul>
+    <hr/>
   </li>
   <li>Linked list
     <ul>
@@ -32,17 +32,23 @@ Program Design Course offered in Sem-3 as a part of that written programs in C l
       <img src="https://i1.faceprep.in/Companies-1/types-of-linked-list.png"/>
     </ul>
   </li>
+  <hr/>
   <li>Stack
   <ul>
     <li>by array</li>
     <li>by linked list</li>
   </ul>
   </li>
+<hr/>
   <li>Queue
   <ul>
     <li>by array</li>
     <li>by linked list</li>
   </ul>
   </li>
+<hr/>
   <li>Tree</li>
+  <hr/>
+  <li>Graph</li>
+<hr/>
 </ol>
