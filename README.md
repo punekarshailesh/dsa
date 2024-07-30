@@ -3,12 +3,14 @@
 Program Design Course offered in Sem-3 as a part of that written programs in C language.
 <ol>
   <li>Array</li>
+  <hr/>
   <li>Sorting algo
   <ul>
     <li>Insertion sort
     <br>
       <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif"/>
     </li>
+    <hr/>
     <li>Selection sort</li>
     <li>Bubble sort</li>
     <li>Merge sort</li>
