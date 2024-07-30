@@ -4,7 +4,7 @@
   <hr/>
   <li>Sorting algo
   <ul>
-    <li>Insertion sort <br> <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif" height=500px widht=650px> </li>
+    <li>Insertion sort <br> <img src="https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif" height=500px widht=550px> </li>
     <li>Selection sort <br> <img src="https://www.doabledanny.com/static/1f66c277a7a820e3492149c6e499bdb1/2.gif" height=500px width=650px> </li>
     <li>Bubble sort <br> <img src="https://content.codecademy.com/courses/sorting/BubbleSort.gif" height=500px width=650px> </li>
     <li>Merge sort <br> <img src="https://user-images.githubusercontent.com/45442173/70378525-0bfc4d00-1900-11ea-89e3-993d955394af.gif" height=500px widht=650px></li>
